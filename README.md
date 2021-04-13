@@ -1,7 +1,5 @@
 [![punnapavankumar9's github stats](https://github-readme-stats.vercel.app/api?username=punnapavankumar9&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punnapavankumar9&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![punnapavankumar9's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=punnapavankumar9)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **punnapavankumar9/punnapavankumar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
